@@ -10,13 +10,7 @@
   font-family: Harmond;
 }
 
-body,
-html {
-  overscroll-behavior: none;
-  background-color: #000000;
-  height: 100vh;
-  width: 100%;
-}
+
 
 main {
   position: fixed;
@@ -40,15 +34,6 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-h1 {
-  position: absolute;
-  left: 0;
-  top: 60%;
-  left: 55%;
-  z-index: 10;
-  color: #ffffff;
-  mix-blend-mode: difference;
 }
 
 img {
