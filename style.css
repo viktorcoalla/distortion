@@ -17,6 +17,12 @@
   visibility: hidden;
 }
 
+.tn-atom__img {
+  
+  height: 600px;
+  visibility: hidden;
+}
+
 .scrollable {
   position: absolute;
   top: 0;
