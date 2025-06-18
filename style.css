@@ -11,7 +11,11 @@
 }
 
 
-
+.distortimg {
+  
+  height: 600px;
+  visibility: hidden;
+}
 
 .scrollable {
   position: absolute;
