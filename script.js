@@ -59,7 +59,7 @@ function smoothScroll(){
 
 class EffectCanvas{
     constructor(){
-        this.container = document.querySelector('main');
+        this.container = document.querySelector('allrecords');
         this.images = [...document.querySelectorAll('img')];
         this.meshItems = []; // Used to store all meshes we will be creating.
         this.setupCamera();
