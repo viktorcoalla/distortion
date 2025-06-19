@@ -11,16 +11,10 @@
 }
 
 
-.distortimg {
-  
-  height: 600px;
-  visibility: hidden;
-}
-
-.tn-atom__img {
-  
-  height: 600px;
-  visibility: hidden;
+#allrecords {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
 }
 
 .scrollable {
@@ -40,6 +34,7 @@
   align-items: center;
   justify-content: center;
 }
+
 
 img {
   position: absolute;
